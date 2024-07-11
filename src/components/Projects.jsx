@@ -3,6 +3,7 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.png";
 import project3 from "../assets/projects/project-3.png";
 import project4 from "../assets/projects/project-4.png";
+import project5 from "../assets/projects/project-5.png";
 import { motion } from "framer-motion";
 
 function Projects() {
@@ -38,6 +39,14 @@ function Projects() {
         "This project is a strong password generator website developed using React.js. Users can specify the desired password length and choose to include uppercase letters, lowercase letters, numbers, and special characters. The site utilizes React components for dynamic and interactive password generation. It also features a clean and responsive design to ensure a smooth user experience across different devices.",
       technologies: ["HTML", "CSS", "Bootstrap", "React JS"],
       link: "https://yourpasswordcreator.netlify.app/",
+    },
+    {
+      title: "YouTube Clone",
+      image: project5,
+      description:
+        "The YouTube clone project, built with React.js, and the YouTube API allows changing video categories. It features a responsive design and uses CSS for styling. React hooks manage state and API integration, while React Router handles navigation. Currently, users can only watch videos without additional interaction capabilities.",
+      technologies: ["HTML", "CSS", "React JS"],
+      link: "https://youtubecloneit.netlify.app/",
     },
   ];
 
