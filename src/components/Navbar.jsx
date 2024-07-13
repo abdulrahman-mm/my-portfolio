@@ -2,7 +2,7 @@ import React from "react";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
 import { CgMail } from "react-icons/cg";
-import resume from "../assets/myresume.pdf"; // Importing the file directly
+import resume from "../assets/resume.pdf"; // Importing the file directly
 
 function Navbar() {
   const handleDownload = () => {
