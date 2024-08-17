@@ -30,7 +30,7 @@ function About() {
               initial={{ x: 100, opacity: 0 }}
               whileInView={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.5 }}
-              className="my-2 max-w-xl py-6"
+              className="my-2 max-w-xl text-xl py-6"
             >
               I am a dedicated and passionate front-end web developer with a
               solid foundation in HTML, CSS, Bootstrap, Tailwind CSS,
