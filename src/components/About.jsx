@@ -34,9 +34,7 @@ function About() {
             >
               I am a dedicated and passionate front-end web developer with a
               solid foundation in HTML, CSS, Bootstrap, Tailwind CSS,
-              JavaScript, TypeScript, and React.js. As a fresher in the
-              industry, I bring a fresh perspective and a strong eagerness to
-              learn and grow in the ever-evolving field of web development.My
+              JavaScript, TypeScript, React and React Native.My
               expertise lies in creating responsive, user-friendly, and
               aesthetically pleasing web interfaces. I am proficient in using
               modern front-end frameworks and libraries to build dynamic and
